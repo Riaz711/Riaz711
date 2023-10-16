@@ -12,10 +12,10 @@ I am a passionate full-stack developer who is comfortable with php technologies 
  ----------------------------------------------------------------------------
  - 👨🏽‍💻 <a href="#">Skills</a>
  - ✅ HTML / CSS / Bootstrap
- - ✅ PHP
- - ✅ PHP with Laravel
- - ✅ Java script
- - ✅  My SQL
+ - ✅ PHP Developer
+ - ✅ PHP with Laravel Framework
+ - ✅ Java script/JQury
+ - ✅  My SQL DB.
 
 
  
