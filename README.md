@@ -8,13 +8,14 @@ I am a passionate full-stack developer who is comfortable with php technologies 
 - 👯 I’m looking to collaborate on web-development.
 - 🤔 I’m looking for help with my permanent job.
 - 💬 Ask me about PHP & Laravel.
-- 👨🏽‍💻 Skills
-- 🌱 ✅ HTML / CSS / Bootstrap
-- 👯 ✅ PHP
-- 🤔 ✅ PHP with Laravel
-- 💬 ✅ Java script
-- 💬 ✅  My SQL
- --------------------------------------------------------------------------
+ ----------------------------------------------------------------------------
+-  👨🏽‍💻 Skills
+-  ✅ HTML / CSS / Bootstrap
+-  ✅ PHP
+-  ✅ PHP with Laravel
+-  ✅ Java script
+-  ✅  My SQL
+
 
  
 
