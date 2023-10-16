@@ -8,6 +8,11 @@ I am a passionate full-stack developer who is comfortable with php technologies 
 - 👯 I’m looking to collaborate on web-development.
 - 🤔 I’m looking for help with my permanent job.
 - 💬 Ask me about PHP & Laravel.
+- 🔭 I’m currently working on Full Stack website(Php with laravel).
+- 🌱 I’m currently learning jajva script.
+- 👯 I’m looking to collaborate on web-development.
+- 🤔 I’m looking for help with my permanent job.
+- 💬 Ask me about PHP & Laravel.
  --------------------------------------------------------------------------
 -👨🏽‍💻 Skills/n
 -✅ HTML / CSS / Bootstrap/n
