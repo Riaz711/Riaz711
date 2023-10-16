@@ -1,6 +1,6 @@
 ![image](https://github.com/Riaz711/Riaz711/assets/146711970/d5644998-055b-4b9e-bb35-95538101814e)
-<a href="">### Hi, I,m Riaz</a> 👋
-#### About Me ✨ 
+### <a href="">Hi, I,m Riaz</a> 👋
+✨####<a href=""> About Me</a>  
 I am a passionate full-stack developer who is comfortable with php technologies (PHP with Larvel & js ). across the whole stack. I have experience building a web application with a backend API system.
  --------------------------------------------------------------------------  
 - 🔭 I’m currently working on Full Stack website(Php with laravel).
@@ -9,7 +9,7 @@ I am a passionate full-stack developer who is comfortable with php technologies 
 - 🤔 I’m looking for help with my permanent job.
 - 💬 Ask me about PHP & Laravel.
  ----------------------------------------------------------------------------
--  👨🏽‍💻 Skills
+-  👨🏽‍💻 <a href="">Skills</a>
 -  ✅ HTML / CSS / Bootstrap
 -  ✅ PHP
 -  ✅ PHP with Laravel
