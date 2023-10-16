@@ -10,12 +10,12 @@ I am a passionate full-stack developer who is comfortable with php technologies 
 - 🤔 I’m looking for help with my permanent job.
 - 💬 Ask me about PHP & Laravel.
  ----------------------------------------------------------------------------
--  👨🏽‍💻 <a href="#">Skills</a>
--  ✅ HTML / CSS / Bootstrap
--  ✅ PHP
--  ✅ PHP with Laravel
--  ✅ Java script
--  ✅  My SQL
+  👨🏽‍💻 <a href="#">Skills</a>
+  ✅ HTML / CSS / Bootstrap
+  ✅ PHP
+  ✅ PHP with Laravel
+  ✅ Java script
+  ✅  My SQL
 
 
  
