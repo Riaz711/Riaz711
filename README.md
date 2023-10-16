@@ -1,6 +1,6 @@
 ![banner2](https://github.com/Riaz711/Riaz711/assets/146711970/0557e9a7-8eb5-4c0e-8437-515c4aaccad8)
 
-### <a class="center" href="#">Hi, I,m Riaz</a> 👋
+### <a <style>text-alin:center<style/> href="#">Hi, I,m Riaz</a> 👋
 ✨<a href="#"> About Me</a>  
 I am a passionate full-stack developer who is comfortable with php technologies (PHP with Larvel & js ). across the whole stack. I have experience building a web application with a backend API system.
  --------------------------------------------------------------------------  
